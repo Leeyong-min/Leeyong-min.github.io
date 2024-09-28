@@ -1,4 +1,4 @@
-# Resume 2026.2
+# Resume
 
 ![증명사진 2020](https://github.com/user-attachments/assets/810ea636-6f2d-4f71-9976-0f173cfdfaf6)
 
