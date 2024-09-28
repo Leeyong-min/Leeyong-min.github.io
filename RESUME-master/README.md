@@ -25,8 +25,8 @@
 <img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
 
 ## 주요경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
-- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
+- 전력전자 연구실 학부연구생 (2024 ~ 현재)
+- 2024 여름학기 모터제어교육 이수 (2024 ~ 2024)
 - [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
 - [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
 - 프리랜서(2014 ~ 2016)
