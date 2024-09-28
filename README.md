@@ -5,7 +5,8 @@
 ![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 ## 소개
-![프로필이미지](C:\Users\이용민\OneDrive\사진\증명사진)
+![프로필이미지](![내사진](https://github.com/user-attachments/assets/2fc858cc-7c57-4c28-bf07-0247bc01ca53)
+)
 - 이름: 이용민
 - 군필여부: 병역 필(육군 병장)
 - 취미: 산책, 운동, 등산, 달리기, 여행
