@@ -175,4 +175,4 @@
 
 ### Simple TodoList
 
-![화면 캡처 2024-09-28 162620](https://github.com/user-attachments/assets/41d9edd0-2830-4989-a709-c3b900c65681)
+![화면 캡처 2024-09-28 162620](https://github.com/user-attachments/assets/92f94ef6-6c28-49c3-8a20-ede9eb26529a)
